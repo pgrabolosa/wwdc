@@ -90,6 +90,7 @@ If you’d like to watch Apple’s keynote with other folks, you’re in luck! T
 - 🇩🇪 June 10th, 6:30pm CEST: [WWDC Watch Party](https://www.meetup.com/cocoaheads-berlin/events/301096559), Berlin, Germany
 - 🇩🇪 June 10th, 6:30pm CEST: [WWDC24 Watch Together](https://www.meetup.com/check-it-rhein-main/events/300948238/) - Frankfurt am Main, Germany
 - 🇩🇪 June 10th, 6pm CEST: [WWDC24 Public Viewing @ adesso mobile](https://www.adesso-mobile.de/veranstaltungen/apple-wwdc-2024-public-viewing-adesso-mobile) - Berlin, Dortmund, Hamburg, Karlsruhe, Nürnberg, Germany
+- 🇫🇷 June 10th, 6pm CEST: [WWDC24 Public Viewing @ IMERIR's FabLab](https://maps.apple.com/?address=7%20Avenue%20Paul%20Pascot,%2066000%20Perpignan,%20France&auid=8284453359764424282&ll=42.674284,2.847922&lsp=9902&q=IMERIR) - Perpignan, France
 - 🇮🇳 June 10th, 7pm IST: [WWDC24 Keynote and SOTU Watch Party](https://www.meetup.com/swiftbengaluru/events/300922614/) – Bangalore, India
 - 🇳🇱 June 10th, 6pm CEST: [CocoaHeads NL Keynote meetup @ ABNAMRO](https://www.meetup.com/cocoaheadsnl/events/298694068) - Amsterdam, The Netherlands
 - 🇳🇴 June 10th, 6pm CEST: [WWDC24 Watch Party](https://www.rebel.no/events/wwdc2024-watch-party) – Oslo, Norway
